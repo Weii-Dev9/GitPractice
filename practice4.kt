@@ -1,3 +1,3 @@
 class practice4{
-    val s = "ni"
+    val s = "practice5_3"
 }
