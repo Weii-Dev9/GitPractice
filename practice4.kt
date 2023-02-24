@@ -1,3 +1,3 @@
 class practice4{
-    val s = "I change it in the practice5basedon4"
+    val s = "practice5_3"
 }
